@@ -1,0 +1,11 @@
+joblib==1.1.0
+matplotlib==3.7.1
+nltk==3.7.1
+numpy==1.22.0
+pandas==1.4.0
+scikit-learn==1.1.0
+scikit-multilearn==0.2.0
+seaborn==0.12.2
+torch==1.10.0
+transformers==4.12.2
+
