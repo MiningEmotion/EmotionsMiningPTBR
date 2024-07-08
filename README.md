@@ -1,10 +1,10 @@
 <div align="left">
-  <a href="https://github.com/MiningEmotion/tweetEmotionsPTBR">
+  <a href="https://github.com/MiningEmotion/EmotionsMiningPTBR">
   
   ![EmotionMining](https://github.com/MiningEmotion/EmotionsMiningPTBR/assets/171974518/05b49e79-8ca9-4bef-ba26-d633e9719299)
   
   <a/>
-  <h1>tweetEmotionsPTBR</h1>
+  <h1>EmotionsMiningPTBR</h1>
 
 <ul>
   <li><a href="#introducao">Introdução</a></li>
